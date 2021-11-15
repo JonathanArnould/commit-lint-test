@@ -1,9 +1,9 @@
 {
   "name": "commit-lint-test",
-  "version": "0.1",
+  "version": "0.0.0",
   "description": "basic project to test commitlint set up",
   "main": "index.js",
-  "author": "Jonathan Anrould",
+  "author": "Jonathan Arnould",
   "devDependencies": {
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
